@@ -1,2 +1,2 @@
 # pie-demo
-This is a Demo git and Github class
+This is a Demo git and Github class.
